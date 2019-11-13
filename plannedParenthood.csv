@@ -5,7 +5,6 @@ Juneau, AK
 Soldotna, AK
 Birmingham, AL
 Mobile, AL
-Little Rock, AR
 Flagstaff, AZ
 Glendale, AZ
 Mesa, AZ
@@ -13,6 +12,7 @@ Phoenix, AZ
 Phoenix, AZ
 Tempe, AZ
 Tucson, AZ
+Little Rock, AR
 Alhambra, CA
 Anaheim, CA
 Antioch, CA
@@ -157,3 +157,453 @@ Torrington, CT
 Waterbury, CT
 West Hartford, CT
 Willimantic, CT
+Dover, DE
+Newark, DE
+Wilmington, DE
+Boca Raton, FL
+Bradenton, FL
+Fort Myers, FL
+Gainesville, FL
+Jacksonville, FL
+Kissimmee, FL
+Lakeland, FL
+Miami, FL
+Miami, FL
+Miami, FL
+Naples, FL
+Orlando, FL
+Pembroke Pines, FL
+Saint Petersburg, FL
+Sarasota, FL
+Stuart, FL
+Tallahassee, FL
+Tampa, FL
+Tampa, FL
+Wellington, FL
+West Palm Beach, FL
+Atlanta, GA
+Lawrenceville, GA
+Marietta, GA
+Savannah, GA
+Honolulu, HI
+Kahului, HI
+Boise, ID
+Meridian, ID
+Twin Falls, ID
+Aurora, IL
+Bloomington, IL
+Champaign, IL
+Chicago, IL
+Chicago, IL
+Chicago, IL
+Chicago, IL
+Chicago, IL
+Chicago, IL
+Chicago, IL
+Decatur, IL
+Fairview Heights, IL
+Flossmoor, IL
+Orland Park, IL
+Ottawa, IL
+Pekin, IL
+Peoria, IL
+Springfield, IL
+Bloomington, IN
+Columbus, IN
+Elkhart, IN
+Evansville, IN
+Ft Wayne, IN
+Gary, IN
+Hammond, IN
+Indianapolis, IN
+Indianapolis, IN
+Indianapolis, IN
+Indianapolis, IN
+Lafayette, IN
+Merrillville, IN
+Michigan City, IN
+Mishawaka, IN
+New Albany, IN
+Ames, IA
+Cedar Falls, IA
+Cedar Rapids, IA
+Council Bluffs, IA
+Des Moines, IA
+Des Moines, IA
+Iowa City, IA
+Urbandale, IA
+Overland Park, KS
+Wichita, KS
+Lexington, KY
+Louisville, KY
+Baton Rouge, LA
+New Orleans, LA
+Biddeford, ME
+Portland, ME
+Sanford, ME
+Topsham, ME
+Annapolis, MD
+Baltimore, MD
+Easton, MD
+Frederick, MD
+Gaithersburg, MD
+Owings Mills, MD
+Suitland, MD
+Towson, MD
+Waldorf, MD
+Boston, MA
+Marlborough, MA
+Springfield, MA
+Worcester, MA
+Ann Arbor, MI
+Ann Arbor, MI
+Big Rapids, MI
+Detroit, MI
+Detroit, MI
+Ferndale, MI
+Flint, MI
+Grand Rapids, MI
+Jackson, MI
+Kalamazoo, MI
+Lansing, MI
+Livonia, MI
+Marquette, MI
+Petoskey, MI
+Traverse City, MI
+Warren, MI
+Alexandria, MN
+Apple Valley, MN
+Bemidji, MN
+Brooklyn Park, MN
+Duluth, MN
+Eden Prairie, MN
+Grand Rapids, MN
+Mankato, MN
+Minneapolis, MN
+Moorhead, MN
+Richfield, MN
+Rochester, MN
+Saint Cloud, MN
+Saint Paul, MN
+Saint Paul, MN
+Virginia, MN
+Willmar, MN
+Woodbury, MN
+Hattiesburg, MS
+Columbia, MO
+Florissant, MO
+Gladstone, MO
+Independence, MO
+Joplin, MO
+Kansas City, MO
+Manchester, MO
+Saint Louis, MO
+Saint Louis, MO
+Saint Louis, MO
+Saint Peters, MO
+Springfield, MO
+Billings, MT
+Billings, MT
+Great Falls, MT
+Helena, MT
+Missoula, MT
+Lincoln, NE
+Omaha, NE
+Las Vegas, NV
+Las Vegas, NV
+Reno, NV
+Claremont, NH
+Derry, NH
+Exeter, NH
+Keene, NH
+Manchester, NH
+Bellmawr, NJ
+Camden, NJ
+Delran, NJ
+East Orange, NJ
+Elizabeth, NJ
+Englewood, NJ
+Flemington, NJ
+Freehold, NJ
+Hackensack, NJ
+Hamilton Square, NJ
+Montclair, NJ
+Morristown, NJ
+Newark, NJ
+Newark, NJ
+New Brunswick, NJ
+Newton, NJ
+Paterson, NJ
+Perth Amboy, NJ
+Pomona, NJ
+Shrewsbury, NJ
+Trenton, NJ
+Washington, NJ
+Albuquerque, NM
+Albuquerque, NM
+Farmington, NM
+Santa Fe, NM
+Albany, NY
+Amsterdam, NY
+Batavia, NY
+Bronx, NY
+Brooklyn, NY
+Buffalo, NY
+Canandaigua, NY
+Canton, NY
+Clifton Park, NY
+Cobleskill, NY
+Corning, NY
+Elmira, NY
+Glen Cove, NY
+Goshen, NY
+Hempstead, NY
+Hornell, NY
+Hudson, NY
+Huntington, NY
+Ithaca, NY
+Johnstown, NY
+Kingston, NY
+Lowville, NY
+Malone, NY
+Massapequa, NY
+Monticello, NY
+Mount Vernon, NY
+Newburgh, NY
+New Rochelle, NY
+New York, NY
+Niagara Falls, NY
+North Tonawanda, NY
+Ogdensburg, NY
+Oneida, NY
+Patchogue, NY
+Plattsburgh, NY
+Poughkeepsie, NY
+Queens, NY
+Queensbury, NY
+Riverhead, NY
+Rochester, NY
+Rochester, NY
+Rome, NY
+Saranac Lake, NY
+Saratoga Springs, NY
+Schenectady, NY
+Smithtown, NY
+Spring Valley, NY
+Staten Island, NY
+Syracuse, NY
+Troy, NY
+Utica, NY
+Watertown, NY
+Watkins Glen, NY
+West Islip, NY
+West Seneca, NY
+White Plains, NY
+Yonkers, NY
+Asheville, NC
+Chapel Hill, NC
+Charlotte, NC
+Durham, NC
+Fayetteville, NC
+Greensboro, NC
+Raleigh, NC
+Wilmington, NC
+Winston-Salem, NC
+Akron, OH
+Athens, OH
+Bedford Heights, OH
+Bedford Heights, OH
+Canton, OH
+Cincinnati, OH
+Cincinnati, OH
+Cleveland, OH
+Cleveland, OH
+Columbus, OH
+Columbus, OH
+Columbus, OH
+Dayton, OH
+Hamilton, OH
+Kent, OH
+Lorain, OH
+Mansfield, OH
+Medina, OH
+Rocky River, OH
+Springfield, OH
+Toledo, OH
+Warren, OH
+Wooster, OH
+Youngstown, OH
+Edmond, OK
+Oklahoma City, OK
+Tulsa, OK
+Tulsa, OK
+Ashland, OR
+Beaverton, OR
+Bend, OR
+Eugene, OR
+Eugene, OR
+Grants Pass, OR
+Medford, OR
+Milwaukie, OR
+Portland, OR
+Portland, OR
+Salem, OR
+Allentown, PA
+Bensalem, PA
+Bridgeville, PA
+Coatesville, PA
+Greensburg, PA
+Harrisburg, PA
+Johnstown, PA
+Lancaster, PA
+Media, PA
+Moon Township, PA
+Norristown, PA
+Norristown, PA
+Philadelphia, PA
+Philadelphia, PA
+Philadelphia, PA
+Philadelphia, PA
+Pittsburgh, PA
+Pittsburgh, PA
+Pottstown, PA
+Quakertown, PA
+Reading, PA
+Somerset, PA
+Upper Darby, PA
+Warminster, PA
+West Chester, PA
+West Chester, PA
+Wilkes-Barre, PA
+York, PA
+Providence, RI
+Charleston, SC
+Columbia, SC
+Sioux Falls, SD
+Knoxville, TN
+Memphis, TN
+Memphis, TN
+Nashville, TN
+Addison, TX
+Arlington, TX
+Austin, TX
+Austin, TX
+Austin, TX
+Austin, TX
+Austin, TX
+Bedford, TX
+Brownsville, TX
+Cedar Hill, TX
+Dallas, TX
+Dallas, TX
+Denton, TX
+El Paso, TX
+El Paso, TX
+Fort Worth, TX
+Fort Worth, TX
+Fort Worth, TX
+Harlingen, TX
+Houston, TX
+Houston, TX
+Houston, TX
+Houston, TX
+Houston, TX
+Lewisville, TX
+Mesquite, TX
+Paris, TX
+Plano, TX
+San Antonio, TX
+San Antonio, TX
+San Antonio, TX
+San Antonio, TX
+San Antonio, TX
+San Antonio, TX
+Spring, TX
+Stafford, TX
+Stafford, TX
+Tyler, TX
+Waco, TX
+Waco, TX
+Logan, UT
+Ogden, UT
+Orem, UT
+Saint George, UT
+Salt Lake City, UT
+Salt Lake City, UT
+South Jordan, UT
+West Valley City, UT
+Barre, VT
+Bennington, VT
+Brattleboro, VT
+Burlington, VT
+Hyde Park, VT
+Middlebury, VT
+Newport, VT
+Rutland, VT
+Saint Albans, VT
+Saint Johnsbury, VT
+White River Junction, VT
+Williston, VT
+Charlottesville, VA
+Hampton, VA
+Richmond, VA
+Roanoke, VA
+Virginia Beach, VA
+Bellevue, WA
+Bellingham, WA
+Bremerton, WA
+Centralia, WA
+Ellensburg, WA
+Everett, WA
+Federal Way, WA
+Friday Harbor, WA
+Kennewick, WA
+Kent, WA
+Lynnwood, WA
+Marysville, WA
+Moses Lake, WA
+Mount Vernon, WA
+Olympia, WA
+Pasco, WA
+Port Angeles, WA
+Pullman, WA
+Puyallup, WA
+Seattle, WA
+Seattle, WA
+Seattle, WA
+Seattle, WA
+Seattle, WA
+Shelton, WA
+Spokane, WA
+Spokane Valley, WA
+Sunnyside, WA
+Tacoma, WA
+Vancouver, WA
+Walla Walla, WA
+Wenatchee, WA
+Yakima, WA
+Vienna, WV
+Appleton, WI
+Blair, WI
+Delavan, WI
+Eau Claire, WI
+Green Bay, WI
+Kenosha, WI
+La Crosse, WI
+Madison, WI
+Madison, WI
+Manitowoc, WI
+Milwaukee, WI
+Milwaukee, WI
+Milwaukee, WI
+Milwaukee, WI
+Milwaukee, WI
+Oshkosh, WI
+Portage, WI
+Racine, WI
+Sheboygan, WI
+Sparta, WI
+Waukesha, WI
+West Allis, WI
+West Bend, WI
+Wisconsin Rapids, WI
